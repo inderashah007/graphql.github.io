@@ -62,7 +62,7 @@ Could produce the following JSON result:
 ```json
 {
   "me": {
-    "name": "Luke Skywalker"
+    "name": "indera shah"
   }
 }
 ```
