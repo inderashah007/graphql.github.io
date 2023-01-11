@@ -30,7 +30,7 @@
     "gatsby-plugin-typegen": "2.2.4",
     "gatsby-plugin-webfonts": "2.2.1",
     "gatsby-source-filesystem": "4.7.0",
-    "gatsby-transformer-remark": "5.7.0",
+    "gatsby-transformer-remark": "5.25.1",
     "globby": "11.0.4",
     "graphql": "15.6.0",
     "marked": "4.0.10",
